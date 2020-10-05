@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Input your ID and Password."
+AuthUserFile /virtual/xyzqrz/.htpasswd
+require valid-user
