@@ -7,9 +7,9 @@
 
 // define('DB_HOST', 'localhost');
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'xyzqrz_bulletin');
-define('DB_USER', 'xyzqrz_bulletin');
-define('DB_PASSWORD', "x2ewhuzn9q");
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASSWORD', "");
 // define("ROOT", $_SERVER['DOCUMENT_ROOT']);
 // define('UTF', 'utf8');
 
